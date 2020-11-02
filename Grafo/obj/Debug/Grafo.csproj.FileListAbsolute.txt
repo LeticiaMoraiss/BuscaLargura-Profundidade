@@ -1,0 +1,28 @@
+C:\Users\Leticia\Desktop\Grafo C#\Grafo\Grafo\obj\Debug\Grafo.csprojResolveAssemblyReference.cache
+C:\Users\Leticia\Desktop\Grafo C#\Grafo\Grafo\obj\Debug\Grafo.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Desktop\Grafo C#\Grafo\Grafo\bin\Debug\Grafo.exe.config
+C:\Users\Leticia\Desktop\Grafo C#\Grafo\Grafo\bin\Debug\Grafo.exe
+C:\Users\Leticia\Desktop\Grafo C#\Grafo\Grafo\bin\Debug\Grafo.pdb
+C:\Users\Leticia\Desktop\Grafo C#\Grafo\Grafo\obj\Debug\Grafo.exe
+C:\Users\Leticia\Desktop\Grafo C#\Grafo\Grafo\obj\Debug\Grafo.pdb
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\Grafo\bin\Debug\Grafo.exe.config
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\Grafo\bin\Debug\Grafo.exe
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\Grafo\bin\Debug\Grafo.pdb
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\Grafo\obj\Debug\Grafo.csprojResolveAssemblyReference.cache
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\Grafo\obj\Debug\Grafo.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\Grafo\obj\Debug\Grafo.exe
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\Grafo\obj\Debug\Grafo.pdb
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\bin\Debug\Grafo.exe.config
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\bin\Debug\Grafo.exe
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\bin\Debug\Grafo.pdb
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\obj\Debug\Grafo.csprojResolveAssemblyReference.cache
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\obj\Debug\Grafo.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\obj\Debug\Grafo.exe
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Grafo\obj\Debug\Grafo.pdb
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Implementação\Grafo\obj\Debug\Grafo.csprojResolveAssemblyReference.cache
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Implementação\Grafo\obj\Debug\Grafo.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Implementação\Grafo\obj\Debug\Grafo.exe
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Implementação\Grafo\obj\Debug\Grafo.pdb
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Implementação\Grafo\bin\Debug\Grafo.exe.config
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Implementação\Grafo\bin\Debug\Grafo.exe
+C:\Users\Leticia\Desktop\TG_Trab01_CarineReais_LeticiaMorais_RoseniOliveira_CCO5\Implementação\Grafo\bin\Debug\Grafo.pdb
